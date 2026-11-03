@@ -1,0 +1,22 @@
+{
+  "name": "annual-attendance-record",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Annual Attendance Record - hospital staff leave, duty roster and Hijri/English calendar system",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jose": "^5.9.6",
+    "mongodb": "^6.9.0",
+    "next": "^16.4.3",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "engines": {
+    "node": ">=20.9"
+  }
+}

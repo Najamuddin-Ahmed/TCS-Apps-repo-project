@@ -1,0 +1,7 @@
+full name: Najamuddin ahmed
+username: najam
+password: 12345678
+designation: admin
+Database
+  - username: najam2006
+  - password: najam2006
